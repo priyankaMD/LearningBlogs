@@ -1,5 +1,5 @@
 
-## [Parts Of Speech](https://priyankamd.github.io/LearningBlogs/partofspeech)
+## [Parts Of Speech](https://priyankaMD.github.io/LearningBlogs/partofspeech)
 
 There are 8 important parts of speech in English and they decide what is the purpose of each word in statement and 
 how we use that grammatically.<br />
