@@ -1,3 +1,3 @@
-Present Tenses (https://priyankaMD.github.io/LearningBlogs/partofspeech)
+Present Tenses (https://priyankaMD.github.io/LearningBlogs/presenttenses)
 
 ## To be am is are
