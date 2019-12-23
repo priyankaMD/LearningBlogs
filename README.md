@@ -1,2 +1,2 @@
 
-1. [Parts Of Speech 1](https://priyankaMD.github.io/LearningBlogs/partofspeech)
+1. [Parts Of Speech](https://priyankaMD.github.io/LearningBlogs/partofspeech)
