@@ -6,8 +6,8 @@ To be verb is a most important that exists in the English language. So it's most
 To conjugate a verb means to change it depending on who the subject is, who is doing the action. As well, with a lot of verbs we can contract them, combine them to make a shorter form with the subject. <br />
 
 ## Positive conjugation : 
-<br /> In the positive, we have I am, he is, she is, it is, we are, you are, they are. We also have a short form. We contract these into something short forms, like I am becomes I'm. He is he's. She is, she's. It is it's. We are, we're. You are, you're. 
-for example,"Tomorrow I am on leave"
+<br /> In the positive, we have I am, he is, she is, it is, we are, you are, they are. We also have a short form. We contract these into something short forms, like I am becomes I'm. He is he's. She is, she's. It is it's. We are, we're. You are, you're. <br />
+for example,"Tomorrow I am on leave"<br />
 
 Most often in spoken English, we hear this pronounced you're, so exactly the same pronunciation as the possessive pronoun, your. Other times depending on accent or situation. And finally they are becomes they're.It's also the exact same sound of the possessive pronoun their.<br />
 
