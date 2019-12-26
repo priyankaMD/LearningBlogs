@@ -34,3 +34,5 @@ In the above example, we didn't contract in the second sentence because it's for
 
 2) "Mr. Parker, I am looking forward to watching your presentation this morning." <br />
 In the above example, we don't contract because it sounds very formal.
+
+ 
