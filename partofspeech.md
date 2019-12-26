@@ -68,5 +68,5 @@ Working of 8 parts of speech are as follows:<br />
  
 ## 8) Interjection<br />
   - An interjection is a word which is a short exclamation, sometimes inserted into a sentence.<br />
-  For example, 
+  For example, <br />
     Hi! How are you?<br />
