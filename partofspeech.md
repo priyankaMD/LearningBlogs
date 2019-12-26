@@ -18,7 +18,7 @@ Working of 8 parts of speech are as follows:<br />
 ## 2) Pronoun :<br />
   - A pronoun is a word used in place of a noun. It is a substitute of the noun in the sentence.<br />
   For example, <br />
-    Apple is sour in taste sometimes. But it is good for health.<br />
+    Apple is sour sometimes. But it is good for health.<br />
   In the above example 'it' is a substitute for Apple.<br />
 
 ## 3) Verb : <br />
@@ -33,7 +33,7 @@ Working of 8 parts of speech are as follows:<br />
   It means is not only the action it expresses but also shows the state of being that started in the past, continuous now and 
   will continue until finish studying English completed.<br />
   
-  - A verb is also a helping verb that means it connects the different parts of speech together.<br />
+  - A verb is also a helping verb that means it connects the different parts of speech.<br />
   For example, <br />
    You are cooking food for dinner. <br />
   Here 'are'is a verb which is helping to connect the words in a sentence. <br />
@@ -48,7 +48,7 @@ Working of 8 parts of speech are as follows:<br />
 
 ## 5) Adverb : <br />
   - Adverbs are just like adjectives, but adverbs never modify nouns and pronouns. They modify the verb action.<br />
-  - Most commonly they give the answer to these questions: where, when, why and how something happened.<br />
+  - Most commonly they answer these questions: where, when, why and how something happened.<br />
   For example, <br />
     She passed the exam easily.<br />
   
