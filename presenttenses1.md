@@ -1,4 +1,4 @@
-[Present simple question and negative](https://priyankaMD.github.io/LearningBlogs/presenttenses1)
+[Present simple question and negative statements](https://priyankaMD.github.io/LearningBlogs/presenttenses1)
 
 
 
