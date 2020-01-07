@@ -11,16 +11,14 @@ After the negation, doesn't or don't, we put the infinitive. Here are a few more
 2) He eats. He doesn't eat.<br />
 
 Negative contraction: <br />
-'Don't' and 'Doesn't' are short forms, contractions of 'do not' and 'does not'. <br />
-Because as we know, I, we, you, they do and we add not after it. And do not becomes don't. I, we, you, they don't. We also know that he, she, it does. And we add not after it. And does not becomes doesn't.  <br />
+'Don't' and 'Doesn't' are short forms, contractions of 'do not' and 'does not'.Because as we know, I, we, you, they do and we add not after it. And do not becomes don't. I, we, you, they don't. We also know that he, she, it does. And we add not after it. And does not becomes doesn't.  <br />
 
 
 ##  Forming questions with the present simple <br />
 We put do or does now at the beginning of the question sentence. Then the subject and finally the main verb in the infinitive.<br /> 
-For example,<br />
-Do I speak?<br />
+For example, 'Do I speak?'<br />
 We use 'do' here because I, we, you, they, all uses 'do'. And 'do' at the beginning that means it's a question. <br />
-Does he like to travel? <br />
+'Does he like to travel?' <br />
 We use 'does' here because of he, she, it all uses 'does'.   And 'does' at the beginning that means it's a question. <br />
 
 ## Short responses and long responses<br />
