@@ -31,29 +31,29 @@ You are eating apple<br />
 We are eating apple<br />
 He/she/it is eating apple<br />
 
-## Verb Have 
+## Verb Have <br />
 
-“They have two children.”
-“She has a beautiful eyes.”
+“They have two children.”<br /><br /><br />
+“She has a beautiful eyes.”<br /><br />
 
-Note: “have” is a normal verb in English. we can use “do” and “does” in the present tense to make questions, 
-and “don’t” and “doesn’t” to make negatives. we can use “did” in the past tense to make questions, 
-and “didn’t” to make negatives.
+Note: “have” is a normal verb in English. we can use “do” and “does” in the present tense to make questions, <br />
+and “don’t” and “doesn’t” to make negatives. we can use “did” in the past tense to make questions, <br />
+and “didn’t” to make negatives.<br />
 
-“Do you have any money?”
-“Does he have any children?”
+“Do you have any money?”<br />
+“Does he have any children?”<br />
 
-“We don’t have much time.”
-“She doesn’t have money for shopping.”
+“We don’t have much time.”<br />
+“She doesn’t have money for shopping.”<br />
 
-“Did he have a good holiday?”
-“We didn’t have a holiday last year.”
+“Did he have a good holiday?”<br />
+“We didn’t have a holiday last year.”<br />
 
-## Verb “have got”
-We can also use “have got” in the present tense to talk about possessions.
+## Verb “have got”<br />
+We can also use “have got” in the present tense to talk about possessions.<br />
 
-I have got a new book from market.
-You have got a nice house.
-He / she has got an important note.
-We have got pizza for lunch.
-They have got two beautiful children.
+I have got a new book from market.<br />
+You have got a nice house.<br />
+He / she has got an important note.<br />
+We have got pizza for lunch.<br />
+They have got two beautiful children.<br />
