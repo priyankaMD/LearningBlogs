@@ -1,4 +1,4 @@
-https://priyankaMD.github.io/LearningBlogs/SimplePresent
+(https://priyankaMD.github.io/LearningBlogs/SimplePresent)
 
 ## Present Simple vs Continious tense:
 
