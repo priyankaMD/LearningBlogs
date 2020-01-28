@@ -6,4 +6,6 @@
 5. [Continuous question and negative](https://priyankaMD.github.io/LearningBlogs/PresentCont)
 6. [Simple vs Continue](https://priyankaMD.github.io/LearningBlogs/SimplePresent)
 7. [Simple Past Tense](https://priyankaMD.github.io/LearningBlogs/SimplePast)
+8. [Past Tense](https://priyankaMD.github.io/LearningBlogs/PastTense)
+
 
