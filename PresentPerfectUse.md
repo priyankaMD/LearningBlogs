@@ -46,18 +46,18 @@ The second important use of the present perfect is to talk about life experience
 For example,<br />
 1) I’ve never seen a dolphin.<br />
 2) He has never travelled outside the country.<br />
-3) Has she ever worked for a multinational company?<br />
+3) Has she ever worked for a multinational company?<br /><br /><br /><br />
 
 ## Use 3 of Present Perfect (how long have)
 
-You can use the present perfect tense when you want to talk about how long you have done something, or for what amount of time you have done something.
+You can use the present perfect tense when you want to talk about how long you have done something, or for what amount of time you have done something.<br />
 
-It is used to talk about an action that began in the past and continues up to the present (and will probably continue in the future). 
+It is used to talk about an action that began in the past and continues up to the present (and will probably continue in the future). <br />
 
-This is the important thing to remember about using the present perfect in this situation: the activity, action, or event is still going on. It has not finished.
+This is the important thing to remember about using the present perfect in this situation: the activity, action, or event is still going on. It has not finished.<br />
 
-For example:
-1) I have lived in Mumbai for more than 20 years.
-2) I have worked for this company for 13 months.
+For example:<br />
+1) I have lived in Mumbai for more than 20 years.<br />
+2) I have worked for this company for 13 months.<br />
 
 
