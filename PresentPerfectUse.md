@@ -1,7 +1,7 @@
 
 [Use of Present Perfect](https://priyankaMD.github.io/LearningBlogs/PresentPerfectUse)
 
-## Use of Present Perfect <br />
+## Use 1 of Present Perfect <br />
 We often use just, yet, still and already with the present perfect because they are related to the present moment. <br />
 
 ## just <br />
@@ -30,5 +30,36 @@ For example:<br />
 
 Note : Still comes between the subject (the bus, they, etc.) and auxiliary verb (haven't/hasn't).<br />
 
-## already
+## already <br />
+Already used with the present perfect means 'before now'. We use it to emphasise that something happened before something else or earlier than expected.<br />
+
+For example:<br />
+I've already spent my salary and it's two weeks before payday.<br />
+
+Note : Already can come between the auxiliary and the main verb or at the end of the clause.
+
+
+## Use 2 of Present Perfect (Have ever never)<br />
+
+The second important use of the present perfect is to talk about life experiences, and to do this we use the words ever and never. Ever means ‘at any time’, and never means ‘at no time’. <br />
+
+For example,<br />
+1) I’ve never seen a dolphin.<br />
+2) He has never travelled outside the country.<br />
+3) Has she ever worked for a multinational company?<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
