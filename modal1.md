@@ -1,4 +1,4 @@
-(https://priyankaMD.github.io/LearningBlogs/modal1)
+[Modals & Imperative](https://priyankaMD.github.io/LearningBlogs/modal1)
 
 ## Might vs May<br />
 
